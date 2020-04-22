@@ -1,0 +1,4 @@
+[error] /home/shivraj/workspace/calcitetemplate/project/BuildSettings.scala:38:17: not found: value sbtAssemblySettings
+[error]       .settings(sbtAssemblySettings: _*)
+[error]                 ^
+[error] one error found
